@@ -1,0 +1,30 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/amirderakh/cookie/main/logo.png",
+        "url_png_logo": "https://raw.githubusercontent.com/amirderakh/cookie/main/logo.png",
+        "location": "Australia",
+        "social": {
+            "instagram_handle": "cookiepool.ada",
+            "discord_handle": "",
+            "reddit_handle": "",
+            "twitter_handle": "cookiepoolada",
+            "facebook_handle": "cookiepool.ada",
+            "youtube_handle": "cookiepool.ada",
+            "twitch_handle": "",
+            "telegram_handle": "",
+            "github_handle": "amirderakh"
+        },
+        "company": {
+            "name": "Cookie Pool"
+        },
+        "about": {
+            "me": "",
+            "server": "3x Ubuntu 20.04 LTS servers running in Europe, non-AWS",
+            "company": "Our focus is on creating high quality products at an affordable price #CookiePool"
+        }
+    },
+    "my-pool-ids": {
+        "0": "51f52854909b904cb5fec81da86b0ef887a06cf08431ed97278ea2bc",
+        "1": ""
+      }
+  }
